@@ -1,0 +1,61 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                         XxX                         X
+X N N N N N N N N N N N N XxX N N N N N N N N N N N N X
+X                         XxX                         X
+X N XXXXXXX N XXXXXXXXX N XxX N XXXXXXXXX N XXXXXXX N X
+X   XxxxxxX   XxxxxxxxX   XxX   XxxxxxxxX   XxxxxxX   X
+X S XxxxxxX N XxxxxxxxX N XxX N XxxxxxxxX N XxxxxxX S X
+X   XxxxxxX   XxxxxxxxX   XxX   XxxxxxxxX   XxxxxxX   X
+X N XXXXXXX N XXXXXXXXX N XXX N XXXXXXXXX N XXXXXXX N X
+X                                                     X
+X N N N N N N N N N N N N N N N N N N N N N N N N N N X
+X                                                     X
+X N XXXXXXX N XXX N XXXXXXXXXXXXXXX N XXX N XXXXXXX N X
+X   XxxxxxX   XxX   XxxxxxxxxxxxxxX   XxX   XxxxxxX   X
+X N XXXXXXX N XxX N XXXXXXXxXXXXXXX N XxX N XXXXXXX N X
+X             XxX         XxX         XxX             X
+X N N N N N N XxX N N N N XxX N N N N XxX N N N N N N X
+X             XxX         XxX         XxX             X
+XXXXXXXXXXX N XxXXXXXXX I XxX I XXXXXXXxX N XXXXXXXXXXX
+          X   XxxxxxxxX   XxX   XxxxxxxxX   X          
+          X N XxXXXXXXX I XXX I XXXXXXXxX N X          
+          X   XxX                     XxX   X          
+          X N XxX I I I I I I I I I I XxX N X          
+          X   XxX                     XxX   X          
+          X N XxX I XXXXXX   XXXXXX I XxX N X          
+          X   XxX   X             X   XxX   X          
+XXXXXXXXXXX N XXX I X             X I XXX N XXXXXXXXXXX
+                    X             X                    
+I I I I I I N I I I X             X I I I N I I I I I I
+                    X             X                    
+XXXXXXXXXXX N XXX I X             X I XXX N XXXXXXXXXXX
+          X   XxX   X             X   XxX   X          
+          X N XxX I XXXXXXXXXXXXXXX I XxX N X          
+          X   XxX                     XxX   X          
+          X N XxX I I I I I I I I I I XxX N X          
+          X   XxX                     XxX   X          
+          X N XxX I XXXXXXXXXXXXXXX I XxX N X          
+          X   XxX   XxxxxxxxxxxxxxX   XxX   X          
+XXXXXXXXXXX N XXX I XXXXXXXxXXXXXXX I XXX N XXXXXXXXXXX
+X                         XxX                         X
+X N N N N N N N N N N N N XxX N N N N N N N N N N N N X
+X                         XxX                         X
+X N XXXXXXX N XXXXXXXXX N XxX N XXXXXXXXX N XXXXXXX N X
+X   XxxxxxX   XxxxxxxxX   XxX   XxxxxxxxX   XxxxxxX   X
+X S XXXXXxX N XXXXXXXXX N XXX N XXXXXXXXX N XxXXXXX S X
+X       XxX                                 XxX       X
+X N N N XxX N N N N N N N N N N N N N N N N XxX N N N X
+X       XxX                                 XxX       X
+XXXXX N XxX N XXX N XXXXXXXXXXXXXXX N XXX N XxX N XXXXX
+xxxxX   XxX   XxX   XxxxxxxxxxxxxxX   XxX   XxX   Xxxxx
+XXXXX N XXX N XxX N XXXXXXXxXXXXXXX N XxX N XXX N XXXXX
+X             XxX         XxX         XxX             X
+X N N N N N N XxX N N N N XxX N N N N XxX N N N N N N X
+X             XxX         XxX         XxX             X
+X N XXXXXXXXXXXxXXXXXXX N XxX N XXXXXXXxXXXXXXXXXXX N X
+X   XxxxxxxxxxxxxxxxxxX   XxX   XxxxxxxxxxxxxxxxxxX   X
+X N XXXXXXXXXXXXXXXXXXX N XXX N XXXXXXXXXXXXXXXXXXX N X
+X                                                     X
+X N N N N N N N N N N N N N N N N N N N N N N N N N N X
+X                                                     X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
