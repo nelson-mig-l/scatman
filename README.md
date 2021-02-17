@@ -2,4 +2,11 @@
 
 Playing around with babylon.js
 
-Just that.
+# Roadmap
+
+* better intructions
+* proper textures
+* soundtrack
+* ghost ai
+* ???
+* PROFIT
